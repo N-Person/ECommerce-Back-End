@@ -1,8 +1,9 @@
 # Brian Morgan
 # ECommerce-Back-End HW
 
-
-
+m
+[GitHub](https://github.com/N-Person/ECommerce-Back-End)
+[GitHubIo](https://n-person.github.io/ECommerce-Back-End/)
 
 
 License MIT License
